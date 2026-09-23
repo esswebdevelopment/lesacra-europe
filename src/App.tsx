@@ -339,7 +339,7 @@ const PricingSection = () => {
 
         {/* Inner Button Content */}
         <a
-          href="https://pay.cakto.com.br/ahn5556_877581"
+          href="https://pay.hotmart.com/O107730217M?bid=1790128718457"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -441,7 +441,7 @@ const FAQSection = () => {
         <div className="absolute inset-0 border border-dark-red opacity-0 group-hover:opacity-100 transition-opacity rounded-[5px]" />
 
         <a
-          href="https://pay.cakto.com.br/ahn5556_877581"
+          href="https://pay.hotmart.com/O107730217M?bid=1790128718457"
           target="_blank"
           rel="noopener noreferrer"
         >
